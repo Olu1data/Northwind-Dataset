@@ -1,4 +1,12 @@
 # Northwind-Dataset using Power BI
-This project analyzes merged data from two sources from a Shipping line and sales data and  from 1996-1998. This data was analysed using the Power BI tool and specific insights that border around the  future projections for the organisation.
+The entire campaign period was from Jul.1996-Dec.1997 which was 1.27million with a total of 77 product types and 2000 items to choose from. As we entered the beginning of the sales period of 1996 sales which started off slow and began to peak towards the month of October to as high as 37,500 and continued till December of that year. By January of the following year it had peaked to as high as 61,000 before it began to drop by February before reaching its zenith by December of 1997 with over 71,000 total sales. Sales reached its record lowest in the year 1996 in Q3 by 29.6% while in 1997 it reached its record lowest in Q2 by 29.4%
+As at 1996 the top 3 customers by total sales were Ernst HANDEL, Quick Stop and Rattlesnake Canyon grocery with 15,000,12000 and 10,500 respectively. Camembert Perriot, Cote de Blaye,Ratclette Courdevault, contributed more to the entire product sales in 1997, while Cote de Blaye,Gnocchi di Nonna Alice and Manjimup contributed more in product sales in 1996 respectively.
+-The sharp midyear dip of 1997 can be attributed to seasonal or external disruptions such as logistics, customer vacation periods, customer choice or total population of the country the products were sold. The business seems vulnerable to shifts in demand as it  seems focuses on two variables customers and products. It was also observed that volume growth didn’t translate to full revenue potential despite the total average discount was 5.62%.
+Recommendations
+Fix the midyear drop in sales by introducing a limited time offer or new products to counteract the slump during those times.
+More Investigation should be on customer behaviour, supply chain and looking to penetrate newer markets while consolidating the larger one like London, Seattle where there are larger employees.
+Channel some of the marketing effort to the key decision makers like marketing manager, sales agent, accounting manager, sales manager and in some case owners while driving sales enablement such as bonuses for smaller accounts
+Adopt a retargeting strategy by identifying lookalike customers and looking to proffer solution to their pain points or concerns around the product features.
+Conclusion
+My review identified a strong foundation for growth, as well as operational vulnerabilities and untapped potential. Targeted initiatives will help stabilize seasonal performance, diversify of the customer base, and drive accelerated growth toward full target achievement.
 
-It was analysed using Power BI only
